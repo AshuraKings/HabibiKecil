@@ -7,10 +7,7 @@
     <version>1</version>
   </parent>
 
-  <groupId>toko.habibi</groupId>
   <artifactId>owner</artifactId>
-  <version>1</version>
-
   <name>owner</name>
 
   <properties>
